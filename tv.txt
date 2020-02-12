@@ -1,5 +1,4 @@
 地方频道,#genre#
-开平综合,http://livepk.chinamcache.com/kpx/kpzb02.m3u8?auth_key=1561968745-0-0-7b65cb80dce4fbae47b4daa992d18e76
 开平生活,http://livepk.chinamcache.com/kpx/kpzb01.m3u8?auth_key=1561968703-0-0-dbda38cd37b5ae987ae9b6de3bec9ae0
 广东珠江台,rtp://239.10.0.63:1025#http://nclive.grtn.cn/zjpd/sd/live.m3u8
 广东经济科教,rtp://239.10.0.46:1025#http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
