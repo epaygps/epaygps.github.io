@@ -121,7 +121,6 @@ TVB星河,http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8#mitv://198.2
 求索动物,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 求索生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 华丽台HD,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
-天映经典HD,p2p://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738
 ELTA体育3HD,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 TVBS新闻台HD,p2p://190.2.146.92:18912/5c7249c2000e510f1d57a75a30592ee2.ts
 非凡新闻HD,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
