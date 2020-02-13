@@ -106,7 +106,9 @@ CETV1FHD,http://39.135.15.70:6610/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=
 兵团卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225722/1/index.m3u8?fmt=ts2hls
 甘肃卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
 港澳台海外,#genre#
-有线新闻台,tvbus://1rnhk2AEsGNXLsv7avw1SDYQPu9KtLNx8azfAHzLnb6S6FcwP7#http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
+有线新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8#tvbus://1rnhk2AEsGNXLsv7avw1SDYQPu9KtLNx8azfAHzLnb6S6FcwP7#http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
+综合娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+财经资讯台,http://testalicdn2.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 有线18,tvbus://1YS9FSxS6A4XcMbsX7tmqJihUY3Mk6UKsCXux6qpL5BERg8Qjy
 TVB无线新闻,tvbus://1oYf8WfnBZ6m1Aj8fomLxGHYKNRRYF4HKa2i8ZCMyfg5UAAzf7#http://www.liveviptv.xyz/tv/tvb.php
 TVB翡翠台,http://hdl0901.plures.net:80/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv#vjms://23.237.33.155:8500:3502/live/cid=362#https://116.77.72.195/streams/d/fct/playlist.m3u8#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#tvbus://15kt11HTmNiHYbDF3VeSxDgtn4BCgLVeFBCPhzazURaMES8YWX#mitv://198.255.74.87:9906/5dc08f31000b2bdc01b84bc33d70901a.ts#http://m.567it.com/jade.m3u8
