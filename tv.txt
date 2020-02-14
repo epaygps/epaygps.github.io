@@ -1,8 +1,4 @@
 地方频道,#genre#
-开平生活,http://livepk.chinamcache.com/kpx/kpzb01.m3u8?auth_key=1561968703-0-0-dbda38cd37b5ae987ae9b6de3bec9ae0
-CHC动作电影,p2p://lino.homeunix.com:6007/59fd25c800060e1102a812154e343f18.ts
-CHC家庭影院,p2p://lino.homeunix.com:6007/59fd25b000031edb02a7b38a6a5d0696.ts
-CHC 高清电影 HD,p2p://lino.homeunix.com:6007/59fd0b3f0002084d024069e339cc1997.ts
 广东珠江台,rtp://239.10.0.63:1025#http://nclive.grtn.cn/zjpd/sd/live.m3u8
 广东经济科教,rtp://239.10.0.46:1025#http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 广东体育,rtp://239.10.0.47:1025#vjms://121.14.222.75:8500:3502/live/cid=336#vjms://23.237.33.155:8500:3502/live/cid=336#http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -147,9 +143,9 @@ TVBS精采台HD,p2p://190.2.146.92:18912/5bdbf3b20000e966d2177540400d0818.ts
 民视HD,p2p://190.2.146.92:18912/5c72483f0003db4b1d51bcf349367c26.ts
 JET综合,p2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
 电影剧集,#genre#
-CHC动作电影,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000120
-CHC高清电影,http://iptv.pdsu.edu.cn/hls/chchd.m3u8#rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000115
-CHC家庭影院,rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000121
+CHC动作电影,p2p://lino.homeunix.com:6007/59fd25c800060e1102a812154e343f18.ts#rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000120
+CHC高清电影,http://iptv.pdsu.edu.cn/hls/chchd.m3u8#p2p://lino.homeunix.com:6007/59fd0b3f0002084d024069e339cc1997.ts#rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000115
+CHC家庭影院,p2p://lino.homeunix.com:6007/59fd25b000031edb02a7b38a6a5d0696.ts#rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil#http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000121
 邵氏影院,http://tx2play1.douyucdn.cn/live/4246519rZ6Vvqy7q.m3u8?uuid=
 黑莓电影,http://112.17.40.145/PLTV/88888888/224/3221226755/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8#http://39.135.36.141:18890/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=1106497909461631220&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6jEmjAMUGy0nIP6jSu%2f7L4kcrIRnbleOKJQFIG34oz%2fEDJYj1%2f6O12Q90SehwN9wSgbQeB4w7iizkqjoW2e%2b8f
 Newtv-动作电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
